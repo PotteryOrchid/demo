@@ -1,2 +1,2 @@
-# demo
-This is a repository for leaning git.
+# dolphin-doc
+dolphin-doc is for saving all document files of dolphin project.
